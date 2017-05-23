@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diary of a FLL Coach </title>
+    <link>http://fll.rocpatel.engineer/</link>
+    <language>en-us</language>
+    <author>Shekhar Gulati</author>
+    <rights>(C) 2017</rights>
+    <updated>2017-05-23 15:33:35 -0700 PDT</updated>
+
+    
+      
+        <item>
+          <title>good to great</title>
+          <link>http://fll.rocpatel.engineer/post/good-to-great/</link>
+          <pubDate>Tue, 23 May 2017 15:33:35 PDT</pubDate>
+          <author>Shekhar Gulati</author>
+          <guid>http://fll.rocpatel.engineer/post/good-to-great/</guid>
+          <description></description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
