@@ -3,29 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://fll.rocpatel.engineer/post/good-to-great/</loc>
-    <lastmod>2017-05-23T15:33:35-07:00</lastmod>
+    <loc>http://fll.rocpatel.engineer/blog/intro/</loc>
+    <lastmod>2017-05-23T19:33:48-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://fll.rocpatel.engineer/categories/</loc>
+    <loc>http://fll.rocpatel.engineer/blog/</loc>
+    <lastmod>2017-05-23T19:33:48-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://fll.rocpatel.engineer/</loc>
-    <lastmod>2017-05-23T15:33:35-07:00</lastmod>
+    <lastmod>2017-05-23T19:33:48-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://fll.rocpatel.engineer/post/</loc>
-    <lastmod>2017-05-23T15:33:35-07:00</lastmod>
+    <loc>http://fll.rocpatel.engineer/tags/first-lego-league/</loc>
+    <lastmod>2017-05-23T19:33:48-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fll.rocpatel.engineer/tags/intro/</loc>
+    <lastmod>2017-05-23T19:33:48-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://fll.rocpatel.engineer/tags/</loc>
+    <lastmod>2017-05-23T19:33:48-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fll.rocpatel.engineer/tutorials/</loc>
     <priority>0</priority>
   </url>
   
