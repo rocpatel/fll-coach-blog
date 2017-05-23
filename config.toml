@@ -1,0 +1,49 @@
+baseurl = "https://fll.rocpatel.engineering/"
+theme = "hugo-geo"
+themesdir = "themes/"
+relativeURLs = false
+languageCode = "en-us"
+title = "Diary of a FLL Coach"
+paginate = 5
+
+[taxonomies]
+	tag = "tags"
+	tutorial = "tutorials"
+
+[params]
+	showglobe = true
+	analytics = "UA-35371735-2"
+
+	favicon = "favicon.ico?v=2"
+	
+	email = "roc@patelr.us"
+
+	header = "Blog"
+
+	profilepic = "images/profile.png"
+	
+	title = "Diary of a FLL Coach"
+	subtitle = "My journey through first lego league"
+
+	# Social buttons for sidebar
+	# Each of these are optional
+	[[params.socialbuttons]]
+	faicon = "github"
+	url = "https://github.com/rocpatel"
+	[[params.socialbuttons]]
+	faicon = "twitter"
+	url = "https://twitter.com/roc_patel"
+	[[params.socialbuttons]]
+	faicon = "linkedin"
+	url = "https://www.linkedin.com/in/rakeshjpatel"
+	[[params.socialbuttons]]
+	faicon = "facebook"
+	url = "https://www.facebook.com/roc.patel"
+
+	[[params.navlinks]]
+	name = "About"
+	url = "about"
+	
+	[[params.navlinks]]
+	name = "Blog"
+	url = ""
